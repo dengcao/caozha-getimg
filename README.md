@@ -5,7 +5,7 @@ caozha-getimg，一个获取远程图片的PHP程序，可以绕过大多数采�
 
 ### 演示地址
 
-[https://caozha.com/git/demo/getimg/?url=盗用的图片地址](https://caozha.com/git/demo/getimg/?url=盗用的图片地址)
+[https://caozha.com/git/demo/getimg/img.php?url=盗用的图片地址](https://caozha.com/git/demo/getimg/img.php?url=盗用的图片地址)
 
 演示地址请不要直接使用，仅做演示使用，如发现直接使用，后期将取消、删除此文件。
 
