@@ -5,7 +5,7 @@ caozha-getimg，一个获取远程图片的PHP程序，代码简洁，但功能�
 
 ### 演示地址
 
-直接查看效果：[https://caozha.com/git/demo/getimg/test.php](https://caozha.com/git/demo/getimg/test.php)
+直接查看效果：[https://5300.cn/git/demo/getimg/test.php](https://5300.cn/git/demo/getimg/test.php)
 
 
  **注意：** 上面的演示地址请不要直接调用，仅做演示使用，如发现直接使用，后期将取消、删除此演示。
@@ -23,16 +23,17 @@ img.php?url=盗用的原图片地址
 
 支持本程序，请到Gitee和GitHub给我们点Star！
 
-Gitee：https://gitee.com/caozha/caozha-getimg
+Gitee：https://gitee.com/dengzhenhua/caozha-getimg
 
-GitHub：https://github.com/cao-zha/caozha-getimg
+GitHub：https://github.com/dengcao/caozha-getimg
 
 
-### 关于开发者
+### 关于
 
-开发：草札 www.caozha.com
+开发：[邓草博客 blog.5300.cn](http://blog.5300.cn)
 
-鸣谢：品络 www.pinluo.com  &ensp;  穷店 www.qiongdian.com
+赞助：[品络互联 www.pinluo.com](http://www.pinluo.com)  &ensp;  [AI工具箱 5300.cn](http://5300.cn)  &ensp;  [汉语言文学网 hyywx.com](http://hyywx.com)  &ensp;  [雄马 xiongma.cn](http://xiongma.cn) &ensp;  [优惠券 tm.gs](http://tm.gs)
+
 
 ### 图片预览
 
